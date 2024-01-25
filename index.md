@@ -21,15 +21,14 @@ Outside of academia, I enjoy drawing and playing guitar. I always seek to improv
 - **[2019-2021]** Scholarship of Academic Excellence, Renmin University of China
 - **[2022]** Scholarship for International Program, Renmin University of China
 
-<!-- {% include_relative _includes/publications.md %}  -->
 {% include_relative _includes/projects.md %}
-<!--{% include_relative _includes/talks.md %}-->
 
 ## Research and Competitions
 
 - **[Nov. 2022]** <a href="https://www.kaggle.com/competitions/open-problems-multimodal/overview" target="_blank">*Kaggle Multimodal Single-Cell Integration Competition*</a>  Silver Medal Team (5%)
-<div class="contents">
-I anticipated the kaggle competition with two other schoolmates. The objective of the competition is to build models to predict gene expression given chromatin accessibility and predict protein levels given gene expression based on high dimensional chromatin data from selective patients. We used truncated SVD to conduct dimension reduction on the chromatin accessibility data, trained the DNN model with Optuna for tuning, trained the LightGBM model and ensembled results.<div>
+    <div class="contents">
+    I anticipated the kaggle competition with two other schoolmates. The objective of the competition is to build models to predict gene expression given chromatin accessibility and predict protein levels given gene expression based on high dimensional chromatin data from selective patients. We used truncated SVD to conduct dimension reduction on the chromatin accessibility data, trained the DNN model with Optuna for tuning, trained the LightGBM model and ensembled results.
+    </div>
 
 - **[Oct. 2021]** Predicting Economic Development Using Deep Learning
-<div class="contents">I worked as Research Assistant in the Computer Vision Group at Renmin University. I participated in works of constructing VGG model for extracting high-dimensional feature vectors from remote sensing images, providing cluster information for economic development, and Constructing ResNet18 model for predicting economic development level through remote sensing images.<div>
+    <div class="contents">I worked as Research Assistant in the Computer Vision Group at Renmin University. I participated in works of constructing VGG model for extracting high-dimensional feature vectors from remote sensing images, providing cluster information for economic development, and Constructing ResNet18 model for predicting economic development level through remote sensing images.</div>
