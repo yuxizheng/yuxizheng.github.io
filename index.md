@@ -8,9 +8,7 @@ I am a Master's student in Computer Science at Emory University. I held undergra
 
 My journey in software development further expanded with the creation of my iOS application, Neword, which was a significant learning experience for me. Driven by my passion for software development, I am eagerly seeking internship opportunities where I can contribute and further develop my skills in this dynamic field. 
 
-
-Outside of academia, I started playing guitar since high school. I also enjoy 
-
+Outside of academia, I enjoy drawing and playing guitar. I always seek to improve my skills.
 
 ## Career Interests
 - **Software Engineering:** IOS application development, game development.
