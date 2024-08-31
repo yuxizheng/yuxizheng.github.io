@@ -7,6 +7,15 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/FocusPal.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://apps.apple.com/us/app/focuspal/id6596771619" target="_blank">FocusPal IOS Application</a></div>
+  <div class="contents"> During the summer of 2024, I created a productivity app for scheduling tasks with a guide for focus training called FocusPal. I used minimalistic design with smooth interaction. The app effortlessly plans users' daily tasks, provides focus training, and helps users' complete their goals efficiently. </div>
+  </div>
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/neword.png" class="teaser img-fluid z-depth-1">
   </div>
 
